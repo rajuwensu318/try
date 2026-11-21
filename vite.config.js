@@ -8,3 +8,4 @@ export default defineConfig({
   // 👇 use your repo name here
   base: '/try',
 })
+ 
