@@ -6,6 +6,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // 👇 use your repo name here
-  base: '/try',
+  base: './',
 })
  
